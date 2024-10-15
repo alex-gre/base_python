@@ -1,7 +1,5 @@
 # ===========================================
 # - Title:  Solar System Simulation
-# - Author: @zerot69
-# - Date:   27 Apr 2022
 # ============================================
 
 import pygame
