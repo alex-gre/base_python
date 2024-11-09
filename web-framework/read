@@ -1,1 +1,10 @@
 flask, django
+
+django:
+========
+python -m venv venv
+windows:
+.\venv\scripts\activate
+linux:
+python -m pip install -r requirements.txt
+python manage.py createsuperuser
