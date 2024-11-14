@@ -1,0 +1,1 @@
+$python "imggen.py" --file img.png --cols 120
