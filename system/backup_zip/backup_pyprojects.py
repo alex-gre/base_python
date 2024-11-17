@@ -5,11 +5,11 @@ import time
 # Backup PyProgects
 # Example on Windows:
 # 1) PycharmProject
-#source = ['C:\\Users\\User\\PycharmProject']
+#source = ['C:\\Users\\User\\Project']
 # 2) MyPractic
-#source = ['C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python38\\MyPractic']
+#source = ['C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python38\\src']
 # 3) work
-source = ['G:\\WORK\\WORK_PY']
+source = ['D:\\WORK\\WORK_PY']
 
 # main backup directory
 target_dir = 'G:\\BackupWin7_64\\backup_python38'
