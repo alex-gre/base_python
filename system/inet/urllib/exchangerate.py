@@ -1,6 +1,7 @@
 import json
 import urllib.request
 
+# 
 URL = 'https://api.exchangerate-api.com/v4/latest/USD'
 exchangerate_json_bin = urllib.request.urlopen(URL)
 exchangerate = json.load(exchangerate_json_bin)
